@@ -65,5 +65,5 @@ def sortFdiskData(fdiskData):
 
     return devicesDict
 
-#loloooo
+#loloooos
 print(sortFdiskData(out))
